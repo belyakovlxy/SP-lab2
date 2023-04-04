@@ -1,0 +1,7 @@
+G:\Stud\серверное программирование\HttpServ\HttpServ\bin\Debug\HttpServ.exe.config
+G:\Stud\серверное программирование\HttpServ\HttpServ\bin\Debug\HttpServ.exe
+G:\Stud\серверное программирование\HttpServ\HttpServ\bin\Debug\HttpServ.pdb
+G:\Stud\серверное программирование\HttpServ\HttpServ\obj\Debug\HttpServ.csproj.AssemblyReference.cache
+G:\Stud\серверное программирование\HttpServ\HttpServ\obj\Debug\HttpServ.csproj.CoreCompileInputs.cache
+G:\Stud\серверное программирование\HttpServ\HttpServ\obj\Debug\HttpServ.exe
+G:\Stud\серверное программирование\HttpServ\HttpServ\obj\Debug\HttpServ.pdb
